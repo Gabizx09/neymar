@@ -1,0 +1,120 @@
+.div-topo{
+    height: 40px
+    ;width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }
+    .div-topo p {
+        margin: 10px;
+    }
+
+   
+.div-segunda{
+    height: 100px;
+    width: 100%;
+    border: 1px solid black;
+   background-color: red;
+   display: flex;
+   justify-content: center;
+   
+
+}
+
+.div-terceira{
+    height: 50px;
+width: 100%;
+border:0,5px solid black;
+background-color: red;
+
+}
+
+.div-cep{
+height: 30px;
+width: 14%;
+border: 1px solid black
+
+
+}
+
+.div-quarta{
+    height: 50px;
+    width: 100%;
+border: 1px solid black;
+margin: 4px;
+}
+
+.div-quinta{
+
+
+width: 100%;
+border: 1px solid black;
+display: flex;
+justify-content: center;
+
+}
+
+.div-meio{
+height: 50px;
+width: 90%;
+border: 1px solid black;
+margin: 10px;
+background-color: red;
+}
+
+.div-grande{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+background-color: red;
+}
+
+.Americanas{
+    color: white;
+    font-size: 50px;
+    width: 30px
+    ;
+
+}
+
+.conecta{
+    color: rgb(224, 11, 82);
+    font-size: 25px;
+}
+
+.passou{
+    color: black;
+    font-size: 20px;
+}
+.quero{
+    color: rgb(228, 31, 96);
+    font-size: 25px;
+}
+
+.procurar{
+    border: 1px solid black;
+   height: 80px;
+justify-content: center;
+width: 90%;
+
+}
+
+.app-texto{
+    font-size: px;
+    color: black;
+}
+
+.final{
+    height: 100px;
+    width: 50%;
+    border: 1px solid black
+}
+
+
+.div-primeiracomeco{
+    height: 50 px;
+    width: 80%;
+}
