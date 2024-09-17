@@ -1,0 +1,32 @@
+
+.impar{
+     background-color: rgba(194, 223, 197, 0.671);
+     font-size: x-large;
+}
+
+.tamanho{ 
+    width: 100%;
+}
+
+.par{
+font-size: x-large;
+    background-color: rgb(216, 212, 241);
+
+}
+.bota{
+
+    width: 30px;
+}
+.fort{
+    width: 28px;
+}
+
+.pal{ 
+    width: 30px;}
+
+.fla{ 
+    width: 30px;
+}
+
+.cru{ width: 30px;}
+
